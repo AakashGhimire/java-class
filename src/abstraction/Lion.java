@@ -11,6 +11,7 @@ public class Lion extends Animal{
 		Lion lion = new Lion();
 		lion.run();
 		lion.jump();
+		
 	}
 	@Override
 	public void jump() {
